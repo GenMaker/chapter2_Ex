@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_create1", "test_create1\test_create1.csproj", "{32B6FC7F-B5BF-4369-A1B5-625D4C90AAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B6FC7F-B5BF-4369-A1B5-625D4C90AAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B6FC7F-B5BF-4369-A1B5-625D4C90AAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B6FC7F-B5BF-4369-A1B5-625D4C90AAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B6FC7F-B5BF-4369-A1B5-625D4C90AAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
